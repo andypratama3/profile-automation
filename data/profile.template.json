@@ -1,0 +1,104 @@
+{
+  "name": "Nama Lengkap Kamu",
+  "email": "email.kamu@example.com",
+  "phone": "6281234567890",
+  "role": "Posisi / Role Kamu, misal: Senior Fullstack Developer",
+  "headline": "Headline untuk LinkedIn, misal: Senior Fullstack Developer | Laravel, Next.js, React, TypeScript, PHP 8, REST API, DevOps",
+  "resume_path": "/path/ke/file/CV_ATS.pdf",
+  "linkedin_url": "https://linkedin.com/in/namakamu",
+  "stack": [
+    "Laravel",
+    "Next.js",
+    "React",
+    "PHP",
+    "TypeScript",
+    "JavaScript",
+    "MySQL",
+    "PostgreSQL",
+    "Docker",
+    "REST API",
+    "DevOps",
+    "Git"
+  ],
+  "nik": "1234567890123456",
+  "birth_place": "Kota Lahir",
+  "birth_date": "2000-01-02",
+  "gender": "L",
+  "address": "Alamat Lengkap, Kota, Provinsi",
+  "province_id": "",
+  "city_id": "",
+  "bank_name": "Nama Bank",
+  "account_number": "1234567890",
+  "social": {
+    "linkedin": "https://linkedin.com/in/namakamu",
+    "instagram": "",
+    "youtube": "",
+    "x": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "education": [
+    {
+      "level": "D4",
+      "institution": "Nama Universitas/Sekolah",
+      "major": "Program Studi",
+      "gpa": "3.50",
+      "start_year": 2022,
+      "end_year": 2026,
+      "status": "still_studying",
+      "semester": 8
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Nama Sertifikasi",
+      "publisher": "Penerbit",
+      "year": 2024,
+      "number": "-"
+    }
+  ],
+  "work_experience": [
+    {
+      "position": "Posisi Jabatan",
+      "company": "Nama Perusahaan",
+      "location": "Kota, Negara",
+      "type": "full_time",
+      "start_date": "2024-01",
+      "end_date": "2024-12",
+      "description": "Deskripsi pekerjaan, pencapaian, dan tech stack",
+      "bullets": [
+        "Achievement 1 dengan metrik",
+        "Achievement 2 dengan teknologi"
+      ]
+    }
+  ],
+  "hard_skills": [
+    "Laravel",
+    "PHP",
+    "Next.js",
+    "React",
+    "JavaScript",
+    "TypeScript",
+    "MySQL",
+    "PostgreSQL",
+    "Docker",
+    "Git",
+    "REST API",
+    "HTML/CSS",
+    "Tailwind CSS",
+    "Livewire",
+    "DevOps"
+  ],
+  "soft_skills": [
+    "Problem-solving",
+    "Komunikasi",
+    "Manajemen Waktu",
+    "Kerja Tim",
+    "Adaptif"
+  ],
+  "additional": [
+    "Bahasa: Indonesia (Native), Inggris (Professional)",
+    "Bersedia: Remote, Hybrid, On-site",
+    "Available: Segera"
+  ]
+}

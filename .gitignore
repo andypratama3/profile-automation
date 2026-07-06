@@ -1,0 +1,28 @@
+# Data pribadi (jangan commit!)
+data/profile.json
+
+# Hasil generate CV
+*.docx
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+browser-act-*.json
